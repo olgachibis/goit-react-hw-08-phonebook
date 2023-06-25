@@ -1,0 +1,23 @@
+.label {
+    display: flex;
+    flex-direction: column;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.input {
+    max-width: 300px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.button {
+    max-width: 100px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    cursor: pointer;
+}

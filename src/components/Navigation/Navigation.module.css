@@ -1,0 +1,19 @@
+.link {
+    text-decoration: none;
+    color: #000000;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.main {
+    display: flex;
+    align-items: baseline;
+    gap: 20px;
+}
+
+.contacts {
+    text-decoration: none;
+    color: #000000;
+    font-weight: 700;
+    font-size: 30px;
+}
